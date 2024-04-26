@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Oluwanimotele-Mayowa_-JuniorFE/static/css/main.f484aaa3.css",
+    "main.js": "/Oluwanimotele-Mayowa_-JuniorFE/static/js/main.4e0fea5f.js",
+    "static/js/453.bb62d949.chunk.js": "/Oluwanimotele-Mayowa_-JuniorFE/static/js/453.bb62d949.chunk.js",
+    "static/media/bg.jpg": "/Oluwanimotele-Mayowa_-JuniorFE/static/media/bg.9b7198127881a60bc53b.jpg",
+    "static/media/sharp.jpg": "/Oluwanimotele-Mayowa_-JuniorFE/static/media/sharp.5c4fba55f650a47c08ff.jpg",
+    "index.html": "/Oluwanimotele-Mayowa_-JuniorFE/index.html",
+    "main.f484aaa3.css.map": "/Oluwanimotele-Mayowa_-JuniorFE/static/css/main.f484aaa3.css.map",
+    "main.4e0fea5f.js.map": "/Oluwanimotele-Mayowa_-JuniorFE/static/js/main.4e0fea5f.js.map",
+    "453.bb62d949.chunk.js.map": "/Oluwanimotele-Mayowa_-JuniorFE/static/js/453.bb62d949.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f484aaa3.css",
+    "static/js/main.4e0fea5f.js"
+  ]
+}
